@@ -1,0 +1,8 @@
+# Dependências do backend
+# FastAPI
+# SQLAlchemy
+# psycopg2-binary
+# redis
+# celery
+# alembic
+# python-dotenv
